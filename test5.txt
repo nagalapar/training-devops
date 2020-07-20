@@ -1,3 +1,4 @@
 ini config
 add line in test5
 tambaha baris di test5
+tambah baris dari master
